@@ -1,0 +1,109 @@
+.sec1{
+    background-color: rgb(152, 152, 233);
+}
+.anchor{
+    text-decoration: none;
+    background-color: azure;
+    padding: 5px;
+}
+.anchor2{
+    text-decoration: none;
+    border: 1px solid skyblue;
+    padding: 10px;
+}
+.inbox3{
+    color: white;
+}
+.inbox4{
+    text-align: center;
+    background-color: whitesmoke;
+    height:100%;
+    padding: 30px;
+}
+.sec3{
+    background-color: rgb(86, 129, 229);
+}
+.icons1{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding:3px;
+    width:10%;
+    text-align:center;
+    
+}
+.icons2{
+    border: 1px solid white;
+    border-radius:50%;
+    padding:3px;
+    width:10%;
+    text-align:center;
+}
+.icons3{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 3px;
+    width: 10%;
+    text-align: center;
+}
+.inbox5{
+    text-align: justify;
+    text-align: center;
+    color: white;
+    margin: auto;
+    padding: 50px 0;
+}
+
+h6#sub-head{
+    padding: 10px;
+}
+.inbox6{
+    color: white;
+    text-align: justify;
+    padding: 20px;
+    font-size: 13px;
+    text-align: center;
+    
+}
+.sec4{
+    background-color: black;
+}
+.inbox7{
+    text-align: center;
+}
+.img9{
+    width: 100%;
+    
+}
+.anchor3{
+    text-decoration: none;
+    background-color:azure;
+    padding: 5px;
+}
+.sec6{
+    padding-bottom: 20px;
+}
+.sec7{
+    background-color: gray;
+    text-align: center;
+    padding: 20px;
+}
+.inbox10{
+  
+    color: white; 
+    padding:40px;
+   
+}
+.anchor4{
+    text-decoration: none;
+    background-color: white;
+    padding: 5px;
+  
+}
+.last-para{
+    font-size: 30px;
+    margin-top: 20px;
+
+}
+.inbox11{
+    text-align:center;
+}
